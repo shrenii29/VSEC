@@ -34,3 +34,10 @@ i. Verify that Jenkins automatically triggers the build.
 - Click "Available plugins" tab
 - Click "Check now" button (bottom right)
 - Wait 30 seconds, then refresh the page
+
+### Step 3: Download the required Plugings
+
+- git
+- github
+- pipeline
+
